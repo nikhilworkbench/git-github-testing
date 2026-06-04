@@ -1,5 +1,3 @@
 one
 Hello
 test
-
-new feature
